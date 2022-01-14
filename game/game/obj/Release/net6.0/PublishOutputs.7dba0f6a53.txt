@@ -1,0 +1,5 @@
+C:\Users\2010\Desktop\Skynet\game.exe
+C:\Users\2010\Desktop\Skynet\game.dll
+C:\Users\2010\Desktop\Skynet\game.deps.json
+C:\Users\2010\Desktop\Skynet\game.runtimeconfig.json
+C:\Users\2010\Desktop\Skynet\game.pdb
